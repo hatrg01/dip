@@ -1,4 +1,2 @@
 # dip-break-captcha
-Generate and break captcha code
-Lib: OpenCV
-Algorithm: K-NN
+Generate and break captcha code - OpenCV - K-Nearest Neighbor
